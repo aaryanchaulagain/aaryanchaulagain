@@ -1,7 +1,7 @@
 
 
 # 💫 Hi 👋, I'm Aryan chaulagain
-**A passionate Cloud Engineer || DOTNET developer || laravel developer from nepal**
+**A passionate  Full Stack laravel developer|| Cloud Engineer || DOTNET developer  from nepal**
 
 Email Me 👉 ✉️ **aryanchaulagain35@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
